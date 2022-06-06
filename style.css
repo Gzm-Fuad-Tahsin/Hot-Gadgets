@@ -1,0 +1,11 @@
+.a img{
+    width: 75%;
+    height: 100%;
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+.card{
+    outline: none;
+    border: none;
+}
